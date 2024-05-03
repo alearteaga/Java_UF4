@@ -1,3 +1,5 @@
+package Herencia;
+
 public class Moto extends Vehiculo {
     int intermitentes;
 

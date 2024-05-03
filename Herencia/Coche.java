@@ -1,3 +1,5 @@
+package Herencia;
+
 public class Coche extends Vehiculo {
     int ruedas = 4;
 
@@ -7,5 +9,4 @@ public class Coche extends Vehiculo {
         this.ruedas = ruedas;
     }
 
-    // Ala ya esta, no hay que hacer nada más
 }

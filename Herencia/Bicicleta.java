@@ -1,4 +1,4 @@
-package herencia;
+package Herencia;
 
 public class Bicicleta extends Vehiculo {
     int frenos;
@@ -8,5 +8,4 @@ public class Bicicleta extends Vehiculo {
         this.frenos = frenos;
     }
 
-    // Buuum
 }

@@ -1,4 +1,4 @@
-package herencia;
+package Herencia;
 
 class Animal {
     // Atributos
@@ -16,3 +16,17 @@ class Animal {
         System.out.println("Grrrrr");
     }
 }
+
+//este es animal (del primer ejercicio)
+//public class Animala {
+   // String nombre;
+
+   // public Animala(String nombre){
+   //     this.nombre=nombre;
+   // }
+
+   // public void ferSoroll(){
+  //  }
+//}
+
+

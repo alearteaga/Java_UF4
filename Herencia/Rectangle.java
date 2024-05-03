@@ -1,4 +1,4 @@
-package herencia;
+package Herencia;
 
 public class Rectangle extends Figura {
     float ancho;

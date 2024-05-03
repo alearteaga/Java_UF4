@@ -1,4 +1,4 @@
-package herencia;
+package Herencia;
 
 public class Estudiante extends Persona {
     String curso;

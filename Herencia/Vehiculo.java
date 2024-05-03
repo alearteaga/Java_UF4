@@ -1,3 +1,5 @@
+package Herencia;
+
 public class Vehiculo {
     float kilometraje = 0;
     String marca;
@@ -10,5 +12,4 @@ public class Vehiculo {
         this.anio = anio;
     }
 
-    // Ala ya esta
 }
